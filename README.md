@@ -13,13 +13,12 @@ After I processed all the data and ran some predictive models I have found some 
 
 <br/>
 
-This chart shows average sales based on year established 
 <br/>
 patience is a virtue! This shows you that the longer the store has been established sales are better!
 <br/>
 ![mrp_avg_sales](https://user-images.githubusercontent.com/94756228/150716113-a2e43406-c48d-493a-8d0c-ddf294b7e036.png)
 <br/>
-Also the price of items causes the sales to raise if the items cost more!
+The price of items causes the sales to raise if the items cost more!
 
 <br/>
 My recommendations are simple patience and increase the cost of items!
