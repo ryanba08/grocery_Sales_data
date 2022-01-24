@@ -1,4 +1,5 @@
 # Grocery Store Sales Data
 
-Process data and show interesting findings to help sales with machine learning
+After I processed all the data and ran some predictive models I have found some interesting things!
+test
 
