@@ -8,6 +8,6 @@ After I processed all the data and ran some predictive models I have found some 
 
 <br/>
 
-![](Dragster.jpg)
+![year_established](year_est.png)
 
 <br/>
