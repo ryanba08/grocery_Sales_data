@@ -11,7 +11,7 @@ After I processed all the data I have found some interesting things!
 
 ![year_Est](https://user-images.githubusercontent.com/94756228/150715432-49944751-e4fb-4308-aa60-ee90013b67cc.png)
 
-This chart above shows you the longer the store has been established the sales are better. Ptience is a virtue.
+This chart above shows you the longer the store has been established the sales are better. Patience is a virtue.
 <br/>
 <br/>
 <br/>
