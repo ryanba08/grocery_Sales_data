@@ -1,6 +1,6 @@
 # Grocery Store Sales Data
 
-This project shows cleaning of data, processing visuals, and predictive models!
+This project shows cleaning data, processing visuals, and predictive models!
 <br/>
 
 <br/>
