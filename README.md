@@ -1,6 +1,6 @@
 # Grocery Store Sales Data
 
-This project shows cleaning data, processing visuals, and predictive models!
+This repository shows cleaning data, processing visuals, and predictive models for a chain of cgrocery stores.
 <br/>
 
 <br/>
@@ -20,5 +20,5 @@ This chart above shows you the longer the store has been established the sales a
 The chart above shows the price of items causes the sales to increase if the items cost more!
 
 <br/>
-My recommendations are simple patience and increase the average cost of items!
+My recommendation to increase sales is patience and increase the average cost of items!
 
